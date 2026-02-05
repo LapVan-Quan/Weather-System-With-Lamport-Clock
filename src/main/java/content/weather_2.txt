@@ -1,0 +1,17 @@
+id:IDS96012
+name:Adelaide (North Terrace /  ngayirdapira)
+state: SA
+time_zone:CST
+lat:-45.9
+lon:90.6
+local_date_time:16/06:00pm
+local_date_time_full:25231715160000
+air_temp:16.3
+apparent_t:10.5
+cloud:Fully cloudy
+dewpt:6.7
+press:1026.9
+rel_hum:80
+wind_dir:A
+wind_spd_kmh:20
+wind_spd_kt:10
